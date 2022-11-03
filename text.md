@@ -2,7 +2,7 @@
 
 England is not quite mountainous.
 However, I have climed the yorkshire three peaks.
-<<<<<<< HEAD
+
 
 I want to climb more...
 
