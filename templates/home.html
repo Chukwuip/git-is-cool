@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <form method="POST">
+        {{ form.hidden_tag() }}
+        <p>Name: {{ form.name() }}</p>
+        <p>Email: {{ form.email() }}</p>
+        <p>{{ form.submit() }}</p>
+    </form>
+</body>
+</html>
